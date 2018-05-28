@@ -1,0 +1,13 @@
+﻿  Perfect Numbers CW.cpp
+c:\users\goelm\desktop\assembler in vísual studio - perfect numbers cw\assembler in vusial studio - perfect numbers cw\start of stars cw\perfect numbers cw.cpp(101): warning C4007: 'wmain': must be '__cdecl'
+c:\users\goelm\desktop\assembler in vísual studio - perfect numbers cw\assembler in vusial studio - perfect numbers cw\start of stars cw\perfect numbers cw.cpp(369): warning C4409: illegal instruction size
+c:\users\goelm\desktop\assembler in vísual studio - perfect numbers cw\assembler in vusial studio - perfect numbers cw\start of stars cw\perfect numbers cw.cpp(373): warning C4409: illegal instruction size
+c:\users\goelm\desktop\assembler in vísual studio - perfect numbers cw\assembler in vusial studio - perfect numbers cw\start of stars cw\perfect numbers cw.cpp(377): warning C4409: illegal instruction size
+c:\users\goelm\desktop\assembler in vísual studio - perfect numbers cw\assembler in vusial studio - perfect numbers cw\start of stars cw\perfect numbers cw.cpp(421): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\goelm\desktop\assembler in vísual studio - perfect numbers cw\assembler in vusial studio - perfect numbers cw\start of stars cw\perfect numbers cw.cpp(422): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\goelm\desktop\assembler in vísual studio - perfect numbers cw\assembler in vusial studio - perfect numbers cw\start of stars cw\perfect numbers cw.cpp(297): warning C4102: 'test_perfect_number': unreferenced label
+c:\users\goelm\desktop\assembler in vísual studio - perfect numbers cw\assembler in vusial studio - perfect numbers cw\start of stars cw\perfect numbers cw.cpp(412): warning C4102: 'finish': unreferenced label
+  Start of stars CW.vcxproj -> C:\Users\goelm\Desktop\Assembler in Vísual Studio - Perfect Numbers CW\Assembler in Vusial Studio - Perfect Numbers CW\Debug\Perfect Stars CW.exe
+  Start of stars CW.vcxproj -> C:\Users\goelm\Desktop\Assembler in Vísual Studio - Perfect Numbers CW\Assembler in Vusial Studio - Perfect Numbers CW\Debug\Perfect Stars CW.pdb (Partial PDB)
